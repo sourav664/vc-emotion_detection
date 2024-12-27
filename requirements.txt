@@ -58,6 +58,7 @@ numpy==2.2.1
 omegaconf==2.3.0
 orjson==3.10.12
 packaging==24.2
+pandas==2.2.3
 pathspec==0.12.1
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
@@ -72,6 +73,7 @@ Pygments==2.18.0
 pygtrie==2.5.0
 pyparsing==3.2.0
 python-dateutil==2.9.0.post0
+pytz==2024.2
 pywin32==308
 PyYAML==6.0.2
 regex==2024.11.6
