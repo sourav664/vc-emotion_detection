@@ -1,0 +1,12 @@
+I am sad, Sad 
+I am happy, Happpy 
+you are not okay, Sad 
+You are not feeling well, Sad 
+How could you say that
+, Sad 
+I am exhilareted
+, Sad 
+, Sad 
+you are happy, Happpy 
+bhot hui am zindagi, cholo jiye mentos zindagi, Neutral, Sad 
+This is docker service running by write yaml file name compose, Sad 

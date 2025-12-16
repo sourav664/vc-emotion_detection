@@ -1,0 +1,15 @@
+name: my-ml-app
+
+services:
+   sentiment-analysis-app:
+      build: .
+      container_name: sentiment-analysis
+      env_file: .env
+
+      ports:
+        - "8000:5000"
+      
+      volumes:
+        - type: bind
+          source: ./audit/
+          target: /app/audit
